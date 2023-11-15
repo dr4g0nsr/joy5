@@ -1,4 +1,4 @@
-module github.com/nareix/joy5
+module github.com/dr4g0nsr/joy5
 
 go 1.13
 
